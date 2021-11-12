@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 - 🎓I'm junior majoring in Computer Science and Mathematics at University of North Carolina at Chapel Hill
-- ⭐Interested in Machine Learning, Computer Vision, and Embedded Systems
+
 
 <div align="center" >
   <a>
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 <a hidden href="https://angelaw7.github.io" target="_blank" ref="noreferral">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
+- ⭐Interested in havent decided yet
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
