@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=orange"/>
   </ul>
 </div>
 
